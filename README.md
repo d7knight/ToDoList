@@ -1,6 +1,6 @@
 # ToDoList
 
-HockeyTech Technical Assessment
+Technical Assessment
 - A "To Do List" single page app developed in a Laravel Homestead Environment  
 - I am using PHP Storm as my IDE and am following along with the following tutorials: 
 - [Laravel To Do List App](https://www.youtube.com/watch?v=sfSjm-MwhNM&list=PLfdtiltiRHWGH8AngyP6cp525_R_NExcR&index=1)
