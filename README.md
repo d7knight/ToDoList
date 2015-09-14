@@ -9,7 +9,7 @@ Technical Assessment
 
 
 
-#Installation/Deployment Steps
+#Setup Instructions
 
 1. Install Laravel with Homestead
 2. Clone this repo to your shared projects folder 
