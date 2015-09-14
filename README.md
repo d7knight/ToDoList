@@ -13,7 +13,7 @@ Technical Assessment
 
 1. Install Laravel with Homestead [Instructions](http://laravel.com/docs/4.2/homestead#installation-and-setup)
 2. Clone this repository inside your shared projects folder 
-3. In the project root, rename .env.example to .env and edit your homestead database details within this file 
+3. In the project root, rename .env.example to .env and add your homestead database details within this file 
 3. Add an entry to your hosts file ex:"192.168.10.10  myawesomeproject.app", in linux it is located at "/etc/hosts"
 4. Make sure your virtual machine is booted by executing `homestead up`
 4. SSH into your vagrant box by executing `homestead ssh` 
