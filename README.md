@@ -19,7 +19,7 @@ Technical Assessment
 4. SSH into your vagrant box by executing `homestead ssh` 
 5. navigate in the virtual machine to the repo folder which you cloned earlier (step 2) 
 6. execute `serve myawesomeproject.app {path to repository on virtual machine}/public` or add the corresponding site entry in Homestead.yaml 
-7. In the project root `composer install`
+7. In the project root execute `composer install`
 8. Execute `php artisian migrate`
 9. Execute `php artisian db:seed`
 10. Open a browser navigate to myawesomeproject.app
