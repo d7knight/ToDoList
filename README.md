@@ -6,7 +6,7 @@ Technical Assessment
 - [Laravel To Do List App](https://www.youtube.com/watch?v=sfSjm-MwhNM&list=PLfdtiltiRHWGH8AngyP6cp525_R_NExcR&index=1)
 - [Creating a Basic ToDo Application in Laravel 5](https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/)
 - I also am using BootStrap and Angular in the Frontend
-- I've also deployed this project to openshift here is a demo link - [Demo](todolistapp-davidknight.rhcloud.com)
+- I've also deployed this project to openshift here is a demo link - [Demo](http://todolistapp-davidknight.rhcloud.com)
 
 
 #Installation/Deployment Steps
