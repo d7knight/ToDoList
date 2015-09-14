@@ -11,16 +11,16 @@ Technical Assessment
 
 #Setup Instructions
 
-1. Install Laravel with Homestead
-2. Clone this repo to your shared projects folder 
+1. Install Laravel with Homestead [Instructions](http://laravel.com/docs/4.2/homestead#installation-and-setup)
+2. Clone this repository inside your shared projects folder 
 3. In the project root, rename .env.example to .env and edit your homestead database details within this file 
-3. Add an entry to your hosts file ex:"192.168.10.10  myawesomeproject.app", in linux it is at "/etc/hosts"
-4. make sure your virtual machine is booted by executing `homestead up`
-4. ssh into your vagrant box by executing `homestead ssh` 
-5. cd into your the cloned repo folder
-6. execute `serve myawesomeproject.app {cloned repo location}/public` or add the site entry in Homestead.yaml 
+3. Add an entry to your hosts file ex:"192.168.10.10  myawesomeproject.app", in linux it is located at "/etc/hosts"
+4. Make sure your virtual machine is booted by executing `homestead up`
+4. SSH into your vagrant box by executing `homestead ssh` 
+5. navigate in the virtual machine to the repo folder which you cloned earlier (step 2) 
+6. execute `serve myawesomeproject.app {path to repository on virtual machine}/public` or add the corresponding site entry in Homestead.yaml 
 7. In the project root `composer install`
-8. `php artisian migrate`
-9. `php artisian db:seed`
+8. Execute `php artisian migrate`
+9. Execute `php artisian db:seed`
 10. Open a browser navigate to myawesomeproject.app
-11. My Single Page To do List app should have 3 tasks loaded, feel free to edit the list :).
+11. My single page To do List app should have 3 tasks loaded, feel free to edit the task list by adding or deleting tasks :).
