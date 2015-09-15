@@ -24,3 +24,8 @@ Technical Assessment
 9. Execute `php artisian db:seed`
 10. Open a browser navigate to myawesomeproject.app
 11. My single page To do List app should have 3 tasks loaded, feel free to edit the task list by adding or deleting tasks :).
+
+
+- I was easily able to host my Laravel 5.0 app on Openshift, see the demo link below      
+
+# [Openshift Demo](http://todolistapp-davidknight.rhcloud.com/)
